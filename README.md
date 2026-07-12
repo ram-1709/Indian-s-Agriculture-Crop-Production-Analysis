@@ -25,6 +25,7 @@ Visualization: Tableau, Matplotlib, Plotly
 Machine Learning: Scikit-learn
 Web Application: Streamlit
 Version Control: Git & GitHub
+
 🎯 Project Objective
 
 To provide a comprehensive agricultural analytics platform that enables stakeholders to analyze historical crop production data, identify trends, predict future production, and support data-driven agricultural planning for sustainable growth in India.
